@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! I'm Michael👋 
 
-<!--
-**Fulosophy/Fulosophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Father, Developer and Entrepreneur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently attending Southern New Hampshire University! Graduation Date --> February 2023 
+- 👯 I’m looking to collaborate with other developers in software development and game development.
+- 🥅 2022 Goals : Advanced Python | Networking | Front-End
+- ⚡ Fun fact: I have a passion for game development and business alike.
+
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulosophy&show_icons=true&theme=dark&count_private=true)
