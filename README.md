@@ -2,7 +2,7 @@
 
 - 🌱 Software Developer and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
-- ⚡ Fun fact: I am a hardcore early 90's/2000's game enjoyer with a strong passion for survival and horror games!
+- ⚡ Fun fact: I am a hardcore survival game enjoyer and game developer!
 
 
 ## Stats
