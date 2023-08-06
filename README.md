@@ -8,4 +8,4 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,cs,cpp,py,ts,js,java,unreal,discord,bots,django,dotnet,git,html,linkedin,linux,mongodb,nextjs,react,nodejs,postgres,postman,prisma,tailwind,&perline=12)]()
 
-[![Support] <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Fulosophy" data-color="#5F7FFF" data-emoji="💻"  data-font="Lato" data-text="Buy me a coffee!" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>]
+<a href="https://www.buymeacoffee.com/Fulosophy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee!" height="41" width="174"></a>
