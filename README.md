@@ -1,4 +1,4 @@
-### Hello! I'm Michael👋 
+## Hello! I'm Michael👋 
 
 - 🌱 Software Developer and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
