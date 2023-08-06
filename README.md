@@ -8,5 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,cs,cpp,py,ts,js,java,unreal,discord,bots,django,dotnet,git,html,linkedin,linux,mongodb,nextjs,react,nodejs,postgres,postman,prisma,tailwind,&perline=12)](https://skillicons.dev)
 
 ## Stats
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulosophy&show_icons=true&theme=dark&count_private=true)
