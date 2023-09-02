@@ -1,6 +1,6 @@
 ## Hello! I'm Michael👋 
 
-- 🌱 Software Developer and Game Dev Enthusiast
+- 🌱 Software Engineer and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
 - ⚡ Fun fact: I am a hardcore survival game enjoyer and game developer!
 - ## Stats
