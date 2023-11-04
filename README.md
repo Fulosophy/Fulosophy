@@ -2,7 +2,7 @@
 
 - 🌱 Software Engineer and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
-- ⚡ Current Projects: What's On The Menu! | Petey Penmen | Dollar 4 A Dev!
+- ⚡ Current Projects: What's the Dish! | Petey Penmen | Long Hours!
 - ## Stats
 [![Fulosophy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fulosophy&show_icons=true&theme=dark&count_private=true)](https://github.com/Fulosophy/github-readme-stats)
 ## My Skills
